@@ -1,7 +1,7 @@
 ## Evolutionary ecology of avian neo-sex chromosomes
 
 
-![Larks](Cover/Cover.pdf)<br>
+![Larks](Cover/Cover.png)<br>
 
 This repository contains supplementary material and high quality images for my PhD thesis "Evolutionary ecology of avian neo-sex chromosomes". The thesis (excluding manuscripts) can be found at:
 
